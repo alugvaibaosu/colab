@@ -1,5 +1,10 @@
 body{background-color: rgb(25, 13, 194);}
 #titulo1{
     text-align: center;
-    color:white
+    color:white;
+    font-size: 65px;
 }
+#champ{display: block;
+margin-left:  auto;
+margin-right: auto;
+width: 150px;}
