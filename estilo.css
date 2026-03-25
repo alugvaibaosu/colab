@@ -21,3 +21,6 @@ width: 150px;}
 .bloque a{
     display: block;
 }
+.bloque img{
+    width: 100%;
+}
