@@ -22,6 +22,7 @@ width: 150px;}
 .bloque{
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 .bloque a{
     display: block;
