@@ -4,6 +4,11 @@ body{background-color: rgb(25, 13, 194);}
     color:white;
     font-size: 65px;
 }
+#t2{
+    text-align: center;
+    color:white;
+    font-size: 65px;
+}
 #champ{display: block;
 margin-left:  auto;
 margin-right: auto;
