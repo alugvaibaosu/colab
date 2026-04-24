@@ -41,7 +41,35 @@ width: 150px;}
 #enlace{color:red;
         font-size:25px;
        }
-
 .r{font-weight:bold;
     font-size: 30px
+}
+#bot{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    align-items: center;
+}
+#bot:hover{
+    color:rgb(255, 255, 255)
+}
+#boton {
+    display: inline-block;
+    margin: 0 auto;
+    background-color: rgb(8, 1, 94);
+    padding: 10px 20px;
+    border: 2px solid rgb(8, 1, 94);
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+#boton:hover{
+    background-color: black;
+    color:rgb(8, 1, 94);
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgb(8, 1, 94);
+}
+#ct{
+    text-align: center;
+    margin-top: 20px;
 }
