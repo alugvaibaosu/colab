@@ -27,6 +27,8 @@ width: 150px;}
     font-size:150%;
     padding: 20px;
     margin: 15px;
+    margin-right: 250px;
+    margin-left: 250px;
     border: 2px;
 }
 .bloque a{
