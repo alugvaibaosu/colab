@@ -75,3 +75,8 @@ width: 150px;}
     text-align: center;
     margin-top: 20px;
 }
+.logo-partido img:hover {
+
+ transform: scale(1.1);
+
+}
